@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/headshot.png"
   bio    : "Georgia Tech M.S. in Data Analytics student interested in predictive analytics in healthcare, retail, and insurance."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
