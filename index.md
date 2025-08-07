@@ -5,3 +5,7 @@
 layout: single
 author_profile: true
 ---
+
+- Predicting Frost for Crop Insurance
+- N8N Automatic Scheduler for Booking Volleyball
+- Graph Neural Network for Length-of-Stay Prediction for Healthcare
